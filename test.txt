@@ -1,2 +1,28 @@
 hi frog frog
 ^-^
+깃 코드
+git remote add origin https://github.com/goldfrog96/kosmo59.git
+git add.
+git commit -m "messege"
+git push origin
+참여자----------------------------------------------------------
+insight확인
+git clone https://github.com/goldfrog96/kosmo59.git
+git remote add origin https://github.com/goldfrog96/kosmo59.git
+git pull origin master
+
+
+
+
+
+
+
+vim test.txt -테스트 파일 만들기
+i -> 끼워쓰기
+esc ->텍스트 파일 나가기
+:wq - 저장 종료
+cat test.txt - 텍스트파일 읽기 
+git clone https://github.com/goldfrog96/kosmo.git - 깃폴더에 공유폴더 만들기
+git add test.txt -파일올리기
+git commit -m "파일추가" - 
+cd "레포이름"
